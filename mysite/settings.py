@@ -25,7 +25,7 @@ SECRET_KEY = '!28%_4s)9(l=%-bm7%kvsykrbb*^jr@97g5nl1_jbp95w^rc(f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shoxdid.pythonanywhere.com']
 
 
 # Application definition
